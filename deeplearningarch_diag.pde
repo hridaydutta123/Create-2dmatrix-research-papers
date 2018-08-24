@@ -27,6 +27,7 @@ void draw() {
       grid[i][j].display();
     }
   }
+  save("diagonal2.png");
    noLoop();
 }
 
